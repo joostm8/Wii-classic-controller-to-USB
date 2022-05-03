@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"name": "Wii_classic_controller_to_USB",
+			"path": ".."
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"gpio.h": "c"
+		}
+	}
+}
